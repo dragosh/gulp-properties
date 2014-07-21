@@ -1,29 +1,28 @@
 {
-    "name": "gulp-properties",
-    "description": "Parse properties files into JS object",
-    "version": "0.0.1",
-    "homepage": "http://github.com/dragosh/gulp-properties",
-    "repository": "git://github.com/dragosh/gulp-properties.git",
-    "author": "Dragosh <oancea.dragosh@gmail.com> (http://dragosh.me/)",
-    "main": "./index.js",
-    "keywords": [
-        "gulpplugin", "properties"
-    ],
-    "dependencies": {
-
-    },
-    "devDependencies": {
-
-    },
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "engineStrict": true,
-    "engines": {
-        "node": ">= 0.10"
-    },
-    "licenses": [{
-        "type": "MIT",
-        "url": "http://github.com/dragosh/gulp-properties/raw/master/LICENSE"
-    }]
+  "name": "gulp-properties",
+  "description": "Parse properties files into JS object",
+  "version": "1.0.0",
+  "homepage": "http://github.com/dragosh/gulp-properties",
+  "repository": "git://github.com/dragosh/gulp-properties.git",
+  "author": "Dragosh <oancea.dragosh@gmail.com> (http://dragosh.me/)",
+  "main": "./index.js",
+  "keywords": [
+    "gulpplugin",
+    "properties"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engineStrict": true,
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/dragosh/gulp-properties/raw/master/LICENSE"
+    }
+  ]
 }
